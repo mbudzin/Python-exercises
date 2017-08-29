@@ -1,4 +1,4 @@
-From Charles Severance, "Exploring Data Using Python 3"
+'''From Charles Severance, "Exploring Data Using Python 3"
 
 Exercice 3 from Chapter 12.10
 
@@ -7,7 +7,7 @@ document from a URL, (2) displaying up to 3000 characters, and (3) counting the
 overall number of characters in the document. Don’t worry about the headers for
 this exercise, simply show the first 3000 characters of the document contents.
 
-One of possible solutions is:
+One of possible solutions is:'''
 
 import urllib.request, urllib.parse, urllib.error
 
